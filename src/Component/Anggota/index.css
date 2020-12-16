@@ -1,0 +1,72 @@
+.anggota{
+    background-color: #D8D4AE;
+    padding-top: 64px;
+    
+    
+}
+
+.anggota .container{
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+
+.anggota .content{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 42px;
+    
+
+}
+
+.anggota .headline{
+    margin-top:0;
+    font-size: 32px;
+
+}
+
+.anggota .subline{
+    font-size: 18px;
+    margin-bottom: 32px;
+
+}
+
+.anggota .memberlist{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0 100px;
+    box-sizing: border-box;
+}
+
+.anggota .member-item{
+    width: 33.3%;
+    text-align: center;
+    padding: 32px;
+    box-sizing: border-box;
+
+}
+
+.anggota .image{
+    width: 100%;
+    max-width: 150px;
+    margin-bottom: 32px;
+    border-radius: 200px;
+
+}
+
+.anggota .title-judul{
+    margin:0;
+    font-size: 32px;
+}
+
+.anggota .name-anggota{
+    font-size: 18px;
+    margin:0;
+    margin-bottom: 32px;
+    
+}

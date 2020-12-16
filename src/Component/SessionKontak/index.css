@@ -1,0 +1,80 @@
+.session-kontak{
+
+
+}
+
+
+.session-kontak .container{
+
+}
+
+.session-kontak .row{
+    display: flex;
+
+}
+
+.session-kontak .photo-donasi{
+    width: 50%;
+    position: relative;
+}
+
+.session-kontak .video-frame{
+    width: 100%;
+    position: relative;
+    height: 100%
+}
+.session-kontak .video-frame iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%
+}
+.session-kontak .image{
+    width: 100%;
+    
+}
+
+.session-kontak .content{
+    width: 50%;
+    background-color: #964B00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.session-kontak .content-item{
+    max-width: 425px;
+    padding: 16px;
+    color: #fff;
+}
+
+.session-kontak .headline{
+   font-size: 32px;
+   margin: 0;
+   margin-bottom: 8px;
+   color: #D8D4AE;
+}
+
+.session-kontak .subline{
+    font-size: 18px;
+    margin: 0;
+    margin-bottom: 24px;
+    position: relative;
+    
+    
+}
+
+.session-kontak .icon{
+    margin: 0;
+    margin-right: 16px;
+    width: 24px;
+    height: 24px;
+}
+
+.session-kontak .icon-bni{
+    width: 80px;
+    margin-right: 16px;
+}

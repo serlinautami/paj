@@ -1,0 +1,49 @@
+.section-kegiatan {
+    position: relative;
+    padding: 64px 0;
+}
+
+
+.section-kegiatan .container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+.section-kegiatan .row{}
+.section-kegiatan .section-header{
+    text-align: center;
+    margin-bottom: 32px;
+}
+.section-kegiatan .section-headline{
+    margin:0;
+    margin-bottom: 8px;
+    font-size: 32px;
+}
+.section-kegiatan .section-subline{
+    font-size: 18px;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+.section-kegiatan .section-body{}
+.section-kegiatan .section-slider-item{
+    height: 250px;
+    background-color: #aaa;
+}
+
+.section-kegiatan .arrow-btn{
+    /* width: 50px;
+    height: 50px; */
+    z-index: 2;
+}
+.slick-next {
+    right: 0;
+}
+
+
+.section-kegiatan .arrow-btn img {
+    /* max-width: 100%; */
+}
+.section-kegiatan .arrow-btn::before {
+    content: "";
+}
